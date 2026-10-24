@@ -3,16 +3,16 @@
     "path": "~/Desktop/GitHub/HDR_Retreat_2026/README.md",
     "project_path": "README.md",
     "type": "markdown",
-    "hash": "0",
+    "hash": "3623451448",
     "contents": "",
-    "dirty": false,
+    "dirty": true,
     "created": 1792799929924.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "2,18",
+        "cursorPosition": "2,0",
         "scrollLine": "0"
     },
     "folds": "",
@@ -20,7 +20,7 @@
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1792799979156,
+    "last_content_update": 1792800090859,
     "read_only": false,
     "read_only_alternatives": []
 }
